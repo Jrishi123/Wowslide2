@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>EC2_instance terraform</title>
+  <style>
+    body {
+      background: #f0f0f0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+
+    .prezi-box {
+      padding: 40px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      display: inline-block;
+    }
+
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 30px;
+      background-color: #0077cc;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 18px;
+    }
+
+    a.button:hover {
+      background-color: #005fa3;
+    }
+  </style>
+</head>
+<body>
+  <div class="prezi-box">
+    <h1>View EC2_instance terraform</h1>
+    <p>This site links to a presentation hosted on Prezi.</p>
+      <a class="button" href="https://prezi.com/view/wutMBepkF6OU53g12u8p/"target="_blank">Open Prezi</a>
+  </div>
+</body>
+</html>
